@@ -7,11 +7,32 @@ Tenho interesse em Desenvolvimento Full Stack, com conhecimentos em HTML, CSS, J
 Acrdito ser uma profissional dedicada, analítica e organizada, com facilidade para aprender novas tecnologias e adaptar-me a diferentes desafios. Acredito na importância da colaboração, da melhoria contínua e das boas práticas de desenvolvimento para criar aplicações funcionais, intuitivas e escaláveis. Estou sempre em busca de novos conhecimentos e oportunidades para evoluir tecnicamente e contribuir com projetos que gerem impacto por meio da tecnologia.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="mailto:seuemail@exemplo.com">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Email" 
+            title="Me envie um Email" 
+            src="https://custom-icon-badges.demolab.com/badge/-Email-236ad3?style=for-the-badge&logo=mail&logoColor=white&labelColor=1155ba"
+        />
+    </a>
+    <a href="https://instagram.com/seuusuario" target="_blank">
+        <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/-Instagram-236ad3?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1155ba"
+        />
+    </a>
+    <a href="https://linkedin.com/in/seuusuario" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Me conecte no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-236ad3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1155ba"
+        />
+    </a>
+    <a href="https://wa.me/5500000000000" target="_blank">
+        <img 
+            alt="WhatsApp" 
+            title="Fale comigo no WhatsApp" 
+            src="https://custom-icon-badges.demolab.com/badge/-WhatsApp-236ad3?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1155ba"
         />
     </a>
 </p>
