@@ -14,14 +14,14 @@ Acredito ser uma profissional dedicada, analítica e organizada, com facilidade 
             src="https://custom-icon-badges.demolab.com/badge/-Email-D14836?style=for-the-badge&logo=mail&logoColor=white&labelColor=B23121"
         />
     </a>
-    <a href="[https://instagram.com/seuusuario](https://www.instagram.com/kaw_czarnik?igsh=YnR6dWlsNmJpZHJl&utm_source=qr)" target="_blank">
+    <a href="https://www.instagram.com/kaw_czarnik?igsh=YnR6dWlsNmJpZHJl&utm_source=qr" target="_blank">
         <img 
             alt="Instagram" 
             title="Me siga no Instagram" 
             src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"
         />
     </a>
-    <a href="www.linkedin.com/in/kawanne-czarnik-6774a9347" target="_blank">
+    <a href="https://www.linkedin.com/in/kawanne-czarnik-6774a9347" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Me conecte no LinkedIn" 
