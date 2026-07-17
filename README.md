@@ -4,7 +4,7 @@
 
 Me chamo Kawanne Luana de Paula Czarnik, tenho 19 anos e sou natural de Araucária/PR. Concluí o ensino médio no Colégio Estadual Do Paraná em 2024. Atualmente, estou cursando Engenharia de Software na PUCPR, atualmente no 3º período, me considero apaixonada por tecnologia e pelo desenvolvimento de soluções que unem inovação, eficiência e qualidade. <br/>
 Tenho interesse em Desenvolvimento Full Stack, com conhecimentos em HTML, CSS, JavaScript, PHP e MySQL, além de experiência em projetos acadêmicos envolvendo desenvolvimento web, banco de dados e Internet das Coisas (IoT) com ESP32. <br/>
-Acrdito ser uma profissional dedicada, analítica e organizada, com facilidade para aprender novas tecnologias e adaptar-me a diferentes desafios. Acredito na importância da colaboração, da melhoria contínua e das boas práticas de desenvolvimento para criar aplicações funcionais, intuitivas e escaláveis. Estou sempre em busca de novos conhecimentos e oportunidades para evoluir tecnicamente e contribuir com projetos que gerem impacto por meio da tecnologia.
+Acredito ser uma profissional dedicada, analítica e organizada, com facilidade para aprender novas tecnologias e adaptar-me a diferentes desafios. Acredito na importância da colaboração, da melhoria contínua e das boas práticas de desenvolvimento para criar aplicações funcionais, intuitivas e escaláveis. Estou sempre em busca de novos conhecimentos e oportunidades para evoluir tecnicamente e contribuir com projetos que gerem impacto por meio da tecnologia.
 
 <p align="left">
     <a href="kakaw.l2505@gmail.com">
