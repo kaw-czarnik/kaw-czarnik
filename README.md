@@ -7,7 +7,7 @@ Tenho interesse em Desenvolvimento Full Stack, com conhecimentos em HTML, CSS, J
 Acredito ser uma profissional dedicada, analítica e organizada, com facilidade para aprender novas tecnologias e adaptar-me a diferentes desafios. Acredito na importância da colaboração, da melhoria contínua e das boas práticas de desenvolvimento para criar aplicações funcionais, intuitivas e escaláveis. Estou sempre em busca de novos conhecimentos e oportunidades para evoluir tecnicamente e contribuir com projetos que gerem impacto por meio da tecnologia.
 
 <p align="left">
-    <a href="kakaw.l2505@gmail.com">
+    <a href="mailto:kakaw.l2505@gmail.com">
         <img 
             alt="Email" 
             title="Me envie um Email" 
