@@ -1,7 +1,5 @@
 #  ⚙️👩🏼‍💻 Kawanne Czarnik
 
-# 👩🏻‍💻 Larissa Kich
-
 **`Desenvolvedora FullStack`**
 
 Me chamo Kawanne Luana de Paula Czarnik, tenho 19 anos e sou natural de Araucária/PR. Concluí o ensino médio no Colégio Estadual Do Paraná em 2024. Atualmente, estou cursando Engenharia de Software na PUCPR, atualmente no 3º período, me considero apaixonada por tecnologia e pelo desenvolvimento de soluções que unem inovação, eficiência e qualidade. 
