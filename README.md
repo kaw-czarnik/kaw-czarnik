@@ -7,13 +7,6 @@ Tenho interesse em Desenvolvimento Full Stack, com conhecimentos em HTML, CSS, J
 Acredito ser uma profissional dedicada, analítica e organizada, com facilidade para aprender novas tecnologias e adaptar-me a diferentes desafios. Acredito na importância da colaboração, da melhoria contínua e das boas práticas de desenvolvimento para criar aplicações funcionais, intuitivas e escaláveis. Estou sempre em busca de novos conhecimentos e oportunidades para evoluir tecnicamente e contribuir com projetos que gerem impacto por meio da tecnologia.
 
 <p align="left">
-    <a href="mailto:kakaw.l2505@gmail.com">
-        <img 
-            alt="Email" 
-            title="Me envie um Email" 
-            src="https://custom-icon-badges.demolab.com/badge/-Email-D14836?style=for-the-badge&logo=mail&logoColor=white&labelColor=B23121"
-        />
-    </a>
     <a href="https://www.instagram.com/kaw_czarnik?igsh=YnR6dWlsNmJpZHJl&utm_source=qr" target="_blank">
         <img 
             alt="Instagram" 
@@ -33,6 +26,13 @@ Acredito ser uma profissional dedicada, analítica e organizada, com facilidade 
             alt="WhatsApp" 
             title="Fale comigo no WhatsApp" 
             src="https://custom-icon-badges.demolab.com/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E"
+        />
+    </a>
+     <a href="mailto:kakaw.l2505@gmail.com">
+        <img 
+            alt="Email" 
+            title="Me envie um Email" 
+            src="https://custom-icon-badges.demolab.com/badge/-Email-D14836?style=for-the-badge&logo=mail&logoColor=white&labelColor=B23121"
         />
     </a>
 </p>
