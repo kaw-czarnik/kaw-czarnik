@@ -11,28 +11,28 @@ Acrdito ser uma profissional dedicada, analítica e organizada, com facilidade p
         <img 
             alt="Email" 
             title="Me envie um Email" 
-            src="https://custom-icon-badges.demolab.com/badge/-Email-236ad3?style=for-the-badge&logo=mail&logoColor=white&labelColor=B23121"
+            src="https://custom-icon-badges.demolab.com/badge/-Email-D14836?style=for-the-badge&logo=mail&logoColor=white&labelColor=B23121"
         />
     </a>
     <a href="[https://instagram.com/seuusuario](https://www.instagram.com/kaw_czarnik?igsh=YnR6dWlsNmJpZHJl&utm_source=qr)" target="_blank">
         <img 
             alt="Instagram" 
             title="Me siga no Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/-Instagram-236ad3?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"
+            src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"
         />
     </a>
     <a href="www.linkedin.com/in/kawanne-czarnik-6774a9347" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Me conecte no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-236ad3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182"
+            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182"
         />
     </a>
     <a href="https://wa.me/5541987525390" target="_blank">
         <img 
             alt="WhatsApp" 
             title="Fale comigo no WhatsApp" 
-            src="https://custom-icon-badges.demolab.com/badge/-WhatsApp-236ad3?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E"
+            src="https://custom-icon-badges.demolab.com/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E"
         />
     </a>
 </p>
